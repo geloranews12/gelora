@@ -28,7 +28,7 @@ if(x=="4"){xxx="/2019/10/the-list-of-erp-software-companies-to.html"}
 if(x=="5"){xxx="/2019/10/what-to-do-to-get-best-erp-system-for.html"}
 if(x=="6"){xxx="/2019/10/what-is-erp-system-software-in-business.html"}
 if(x=="7"){xxx="/2019/10/the-erp-systems-for-small-companies.html"}
-if(x=="8"){xxx="/2019/11/what-does-erp-mean-in-business-today.html"}a_to_ve[i].href="https://www.mecokie.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="8"){xxx="/2019/10/what-does-erp-mean-in-business-today.html"}a_to_ve[i].href="https://www.mecokie.com"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
